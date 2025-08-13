@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Goals
 - Clean and preprocess the data
 - Explore trends (by state, year, assets, losses, etc.)
@@ -24,3 +25,6 @@
 - Who are the main acquiring institutions?
 
 ## Results
+=======
+# failed-bank-usa-eda
+>>>>>>> c3148c0c8d8ee513ec6a868912a70ba83f93c005
